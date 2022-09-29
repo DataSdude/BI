@@ -1,0 +1,1 @@
+My work for Maven Market, a multinational grocery grocery chain with locations in Canada, Mexico and the United States to help visualize its evolution over the years and improve its its business strategy.
